@@ -13,8 +13,9 @@ The **Maya Mirror Pose Plugin** is a custom tool for Autodesk Maya that allows a
 ✔️ User-friendly UI activated via a Maya shelf button  
 
 ## Installation
-download, save, and run the script below on your Maya script editor 
-mirror_pose_ui.py
+download, save, and run the script below on your Maya script editor
+
+"mirror_pose_ui.py" file 
 
 2. **Add the Shelf Button:**
     - Open `create_shelf_button.mel` in a text editor and replace any placeholder paths with the actual path where your script will be stored.
