@@ -3,7 +3,7 @@ note:- I manually write these "note" lines and "##Installation" block is written
 
 note:- make sure to drag and drop  this command "mirrorPoseUI()" on your shelf tools to pop up the UI(for ease of access)
 
-note:-you can ignore Mel script but if you want to create the shelf tool programmatically you can...
+note:-you can ignore Mel's script but if you want to create the shelf tool programmatically you can...(it didn't run well) You are welcome to make changes 
 
 ## Installation
 download, save, and run the script below on your Maya script editor
