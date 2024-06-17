@@ -1,5 +1,5 @@
 # Maya Mirror Pose Plugin
-note:- I manually write these "note" lines and "##installtion" block is written by me, rest is AI-generated 
+note:- I manually write these "note" lines and "##Installation" block is written by me, rest is AI-generated 
 
 note:- make sure to drag and drop  this command "mirrorPoseUI()" on your shelf tools to pop up the UI(for ease of access)
 
