@@ -3,6 +3,11 @@ note:- I manually write these "note" lines and "##Installation" block is written
 
 note:- make sure to drag and drop  this command "mirrorPoseUI()" on your shelf tools to pop up the UI(for ease of access)
 
+## Installation
+download, save, and run the script below on your Maya script editor
+
+"mirror_pose_ui.py" file 
+
 ## Overview
 The **Maya Mirror Pose Plugin** is a custom tool for Autodesk Maya that allows animators to mirror the pose of selected controllers with a single click. This tool is especially useful for character rigs with symmetrical controls, facilitating the animation process by automating the mirroring of keyframe values for translation and rotation attributes.
 
@@ -11,11 +16,6 @@ The **Maya Mirror Pose Plugin** is a custom tool for Autodesk Maya that allows a
 ✔️ Handles controllers with side-indicating suffixes (`L`, `l`, `R`, `r`)  
 ✔️ Flips values of center controllers (without side suffixes)  
 ✔️ User-friendly UI activated via a Maya shelf button  
-
-## Installation
-download, save, and run the script below on your Maya script editor
-
-"mirror_pose_ui.py" file 
 
 2. **Add the Shelf Button:**
     - Open `create_shelf_button.mel` in a text editor and replace any placeholder paths with the actual path where your script will be stored.
