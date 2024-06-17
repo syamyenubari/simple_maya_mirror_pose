@@ -1,0 +1,6 @@
+if (`shelfLayout -exists "CustomShelf"`) {
+    shelfButton -parent "CustomShelf" -label "Mirror Pose" -command "mirrorPoseUI" -image1 "commandButton.png";
+} else {
+    string $shelf = `shelfLayout "CustomShelf"`;
+    shelfButton -parent $shelf -label "Mirror Pose" -command "mirrorPoseUI" -image1 "commandButton.png";
+}
