@@ -1,3 +1,6 @@
+#update = please use "simple_mirror_v2.py" for advanced features multiple mirror functions/features...
+
+
 # Maya Mirror Pose Plugin
 note:- I manually write these "note" lines and "##Installation" block is written by me, rest is AI-generated 
 
