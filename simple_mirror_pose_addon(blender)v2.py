@@ -1,3 +1,18 @@
+bl_info = {
+    "name": "Mirror Pose Tools",
+    "blender": (4, 0, 0),  # Adjust this version as needed
+    "category": "Pose",
+    "version": (1, 0, 0),
+    "author": "syam kalyan yenubari + chat gpt",
+    "description": "Tools to mirror, copy, and paste poses in Blender",
+    "location": "View3D > Tool Shelf > Mirror Pose Tools",
+    "warning": "",
+    "wiki_url": "https://github.com/syamyenubari/simple_maya_mirror_pose",
+    "tracker_url": "",
+    "support": "on my socials https://www.instagram.com/syamkalyanyenubari/
+                 "https://www.linkedin.com/in/syam-kalyan-yenubari/",
+}
+
 import bpy
 from bpy.props import StringProperty, CollectionProperty
 import mathutils
