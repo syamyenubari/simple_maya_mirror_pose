@@ -1,6 +1,7 @@
 #update = now "mirror_pose_ui" has advanced features multiple mirror functions/features...
-
-
+#update002= now available for the "blender" with the same features in the tools sidebar panel...
+# blender addon installation 
+just download "simple_mirror_pose_addon(blender).py" file and in blender go to "edit>preferences>addon>install>{locate the file path where you place the file in your system} 
 # Maya Mirror Pose Plugin
 note:- I manually write these "note" lines and "##Installation" block is written by me, rest is AI-generated 
 
